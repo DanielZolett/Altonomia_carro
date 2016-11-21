@@ -1,0 +1,7 @@
+#Mon Nov 21 20:03:41 BRST 2016
+base.0=C\:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_df7b451a49d4d135f9b72ee373b166034f1b4960
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ebd1c8d2252ea225d50a6ce20b756184dc1d2cf4\\classes.dex
+base.1=C\:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ebd1c8d2252ea225d50a6ce20b756184dc1d2cf4
+file.0=C\:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_df7b451a49d4d135f9b72ee373b166034f1b4960\\classes.dex

@@ -1,0 +1,315 @@
+[
+    {
+        "outputFile": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 57,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 55,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 74,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\24.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 74,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 75,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\24.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 75,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 71,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\24.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 71,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 65,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\24.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 65,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 52,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 52,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 55,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 55,
+                        "endOffset": 68
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 52,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endColumn": 52,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 66,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 66,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 47,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 47,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 67,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 461,
+                        "endColumn": 67,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 94,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 94,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endColumn": 62,
+                    "endOffset": 1448
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 62,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1453,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "C:\\Users\\daniel\\Documents\\dani\\androi progrma\\Altonomia_do_carro\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

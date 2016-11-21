@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="36946682009397"
+    token="3286985201028449441"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4633" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="701" />
+    <task
+        name="verifier"
+        duration="358" />
+
+    <artifact
+        location="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="36946682009397"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

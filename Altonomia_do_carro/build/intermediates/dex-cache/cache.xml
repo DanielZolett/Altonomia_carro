@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2e0d4094a8a870cdef61f6258a056b5513ad1654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_194d75b4f2b43b037f37232f830c249594bc7fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_ec0636b9253f4faabdb67817fe2c91cdb45a9136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5b00684598f15ab490fe03665fe24bbaf0cf3c7">
+        <dex dex="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ebd1c8d2252ea225d50a6ce20b756184dc1d2cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_a1565aaa526fff12a5158a3f50bb7018377260f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc994c5fcadb3b46e6f14be55efad3b7ed49626e">
+        <dex dex="C:\Users\daniel\Documents\dani\androi progrma\Altonomia_do_carro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df7b451a49d4d135f9b72ee373b166034f1b4960\classes.dex" />
+    </item>
+
+</items>
